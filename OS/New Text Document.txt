@@ -1,0 +1,4 @@
+deadlock 
+fork
+system call
+seven state diagram
