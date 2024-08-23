@@ -16,7 +16,6 @@ int main() {
     else{ // fork() returning positive means parent process
         printf("parent id = %d \n",getpid());
     }
-    // printf("Tanmay \t process_id(pid) = %d\n",getpid() );
 
     return 0;
 }
